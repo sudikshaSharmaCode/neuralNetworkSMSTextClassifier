@@ -1,5 +1,6 @@
 Neural Network SMS Text Classifier Project
 Project Overview
+
 This project involves creating a machine learning model to classify SMS messages as either "ham" (normal messages) or "spam" (unwanted advertisements). The classifier is built using a neural network and is trained on the SMS Spam Collection dataset. The primary goal is to accurately identify and distinguish between legitimate messages and spam messages.
 
 Key Steps in the Project
